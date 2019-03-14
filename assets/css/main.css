@@ -2087,6 +2087,11 @@ input[type=radio] + label:before {
   width: 240px;
 }
 
+.moreInfoPic {
+  height: 230px;
+  width: 300px;
+}
+
 .image {
   border-radius: 0.25em;
   border: 0;
